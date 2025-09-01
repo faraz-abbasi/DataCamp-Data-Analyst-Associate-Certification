@@ -2,6 +2,8 @@
 
 This repository showcases the practical tasks and solutions from my **Data Analyst Associate Certification** earned from [DataCamp](https://www.datacamp.com/certificate/DAA0016493153537).
 
+## [View Live Publication](https://www.datacamp.com/datalab/w/0b1404e0-2ac3-4450-8d99-a20b0cddfa53)
+
 ## 📖 Certification Overview
 The certification validates my ability to:
 - Use **PostgreSQL** to query, join, and clean datasets
